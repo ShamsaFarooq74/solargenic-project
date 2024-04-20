@@ -1,2 +1,1 @@
-I've developed a comprehensive system for managing solar plants. This includes functionalities for monitoring and controlling various aspects of solar systems, ensuring efficient management and optimization of solar energy production.
-Incorporated a third-party API for solar data, enabling the storage of inverter details,battery detail, generation,consumption,grid load ,backup load  on a daily, monthly, and yearly basis alongside real-time data and manage battery details, including changes and energy discharge. Implemented Cron jobs to get data of plants onn specific time period  Additionally, established a runtime token system with a two-minute expiration for enhanced security.
+# solargenic-project
